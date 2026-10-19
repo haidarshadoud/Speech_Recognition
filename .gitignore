@@ -1,0 +1,13 @@
+# PyInstaller outputs
+build/
+dist/
+*.spec
+
+# IDE / Editor configuration
+.idea/
+.vscode/
+
+# Python environments & cache
+venv/
+pycache/
+*.pyc
